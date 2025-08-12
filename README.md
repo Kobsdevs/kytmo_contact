@@ -353,6 +353,6 @@ MIT — Voir `LICENSE`.
 
 ## 📞 Contact
 
-* Auteur : **Kobénan**
+* Auteur : **Tabitha** **Moise** **Yves** **Kobénan**
 * Projet : KYTMO CONTACT
 * Logo : couleur primaire `#1E6C99` (bleu), variante texte **blanc**.
